@@ -36,7 +36,7 @@ Saves all data in LocalStorage
 No installation required.
 
 1. Download or Clone the Repository
-git clone https://github.com/yourusername/impressive-notes-app.git
+git clone https://github.com/Harshed-V/impressive-notes-app.git
 
 2. Open the Project Folder
 cd impressive-notes-app
